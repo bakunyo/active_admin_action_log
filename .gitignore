@@ -6,4 +6,6 @@
 /doc/
 /pkg/
 /spec/reports/
+/spec/rails
 /tmp/
+/vendor/bundle
